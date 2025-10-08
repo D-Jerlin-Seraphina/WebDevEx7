@@ -1,8 +1,8 @@
 {
-  "name": "calorie-tracker",
+  "name": "webdevex7",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://D-Jerlin-Seraphina.github.io/calorie-tracker",
+  "homepage": "https://d-jerlin-seraphina.github.io/WebDevEx7",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
